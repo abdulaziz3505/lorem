@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+nav{
+    width: 100%;
+    height: 44px;
+    background: #333;
+    position: sticky;
+    top: 0px;
+}
+.collection{
+    height: 100%;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ddd;
+}
+.item{
+    list-style: none;
+    font-size: 12px;
+}
+.item:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.item i{
+    font-size: 18px;
+
+}
+.sanner{
+    width: 100%;
+    height: 50px;
+    padding-bottom: 20px;
+    background-color: rgb(119, 117, 117);
+}
+.sanner p{
+    text-align: center;
+    padding-top: 15px;
+}
+.sanner p a{
+    margin: 0px 15px;
+    text-decoration: none;
+    color: #06C;
+}
+.sanner span{
+    margin: 0px 20px;
+    text-decoration: none;
+    color: #06C;
+}
+
+.bannermg{
+    width: 100%;
+    height: 100vh;
+}
+.banner_mac{
+    background: url("./promo_macbookair__fywl7i82fueu_large.png") no-repeat center/cover;
+}
+.bannermg h4{
+    color: orange;
+    text-align: center;
+    padding-top: 35px;
+}
+.bannermg h1{
+    text-align: center;
+    font-size: 55px;
+}
+.bannermg h3{
+    text-align: center;
+    font-size: 30px;
+    width: 26%;
+    margin-left: 500px;
+}
+.bannermg p{
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    padding-top: 12px;
+}
+nav{
+    width: 100%;
+    height: 44px;
+    background: #333;
+    position: sticky;
+    top: 0px;
+}
+.collection{
+    height: 100%;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #ddd;
+}
+.item{
+    list-style: none;
+    font-size: 12px;
+}
+.item:hover{
+    color: #fff;
+    cursor: pointer;
+}
+.item i{
+    font-size: 18px;
+
+}
+.iphone14pro{
+    width: 100%;
+    height: 100vh;
+    background: url("./hero_iphone14pro_preorder__cc1jjc6hq7ma_large.jpg") no-repeat center/cover;
+}
+.banner h1{
+    color: #fff;
+    font-size: 55px;
+    text-align: center;
+    padding-top: 35px;
+}
+.banner h3{
+    color: #fff;
+    font-size: 33px;
+    font-weight: 500;
+    text-align: center;
+}
+.link{
+    margin: 0px 20px;
+    padding-left: 530px;
+    text-decoration: none;
+    color: #06C;
+}
+.link span{
+    font-size: 20px;
+    padding-top: 9px;
+}
+.link:hover span{
+    text-decoration: underline;
+}
+
+.linc{
+    margin: 0px 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: #06C;
+}
+.linc span{
+    font-size: 20px;
+}
+.linc:hover span{
+    text-decoration: underline;
+}
+.ginner{
+    width: 100%;
+    height: 100vh;
+}
+.ipadair{
+    background: url("./promo_ipadair_avail__ferd4bfpcdm6_large.jpg") no-repeat center/cover;
+}
+.active a{
+    color: var(--color-sy);
+    text-decoration: underline;
+}
+.ginner h4{
+    color: orange;
+    padding-top: 220px;
+    font-size: 12px;
+    padding-left: 200px;
+}
+.ginner h1{
+    color: #fff;
+    font-size: 55px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.ginner h3{
+    color: #fff;
+    width: 25%;
+    font-size: 33px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-left: 110px;
+}
+.ginner p{
+    color: #333;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.unner{
+    width: 100%;
+    height: 100vh;
+    background: url("./hero_iphone14pro_preorder__cc1jjc6hq7ma_large.jpg") no-repeat center/cover;
+}
+.unner h4{
+    color: #fff5;
+    text-align: center;
+    padding-top: 60px;
+}
+.unner h2{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 8px;
+}
+.unner h1{
+    color: violet;
+    text-align: center;
+
+    padding-top: 10px;
+}
+.unner h3{
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+.senner{
+    width: 100%;
+    height: 100vh;
+}
+.Watch{
+    background: url("./apple-watch-ultra.webp") no-repeat center/cover;
+}
+.senner h2{
+    font-size: 30px;
+    text-align: center;
+}
+.senner h2 i{
+    font-size: 28px;
+}
+
+.senner h4{
+    text-align: center;
+    color: orange;
+}
